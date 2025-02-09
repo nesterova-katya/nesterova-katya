@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет всем! 👋
 
-<!--
-**nesterova-katya/nesterova-katya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **аналитик данных** с опытом разработки в **BI-инструментах (Tableau)**.
 
-Here are some ideas to get you started:
+•   Имею большой производственный опыт в **нефтяной отрасли**, но с большим интересом готова погрузиться в новую сферу.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•   Пишу **SQL-запросы**, использую **оконные функции**, **джойны**. Обрабатываю данные на **Python (Pandas)**, использую библиотеки для **визуализации**.
+
+•   Владею инструментами: **Excel, Tableau, Python (Pandas, NumPy, Matplotlib, Seaborn), SQL**.
+
+**Мои проекты:**
+
+*  [Проекты](https://github.com/nesterova-katya/Practicum_projects)
+
+**Связаться со мной:**
+
+•   [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="20">](https://t.me/kolipcay)
+
+

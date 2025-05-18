@@ -10,7 +10,9 @@
 
 **Мои проекты:**
 
-*  [Проекты](https://github.com/nesterova-katya/Practicum_projects)
+* [Проекты Мастерской для реальных заказчиков](https://github.com/nesterova-katya/practicum_workshop_projects/tree/main) 
+
+*  [Учебные проекты](https://github.com/nesterova-katya/Practicum_projects)
 
 **Связаться со мной:**
 

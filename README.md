@@ -10,6 +10,8 @@
 
 **Мои проекты:**
 
+* [Дашборды, выполненные в Power BI на основе тестовых заданий](https://github.com/nesterova-katya/PowerBI_Dashboards-)
+
 * [Проекты Мастерской для реальных заказчиков](https://github.com/nesterova-katya/practicum_workshop_projects/tree/main) 
 
 *  [Учебные проекты](https://github.com/nesterova-katya/Practicum_projects)
